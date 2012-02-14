@@ -9,3 +9,6 @@ obj/
 
 # MSTest
 TestResults/
+
+# Required libs that I may not include
+lib/
