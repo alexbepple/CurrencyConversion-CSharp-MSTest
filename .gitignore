@@ -1,0 +1,11 @@
+# ReSharper
+_ReSharper.*
+
+# Visual Studio
+*.suo
+*.DotSettings.user
+bin/
+obj/
+
+# MSTest
+TestResults/
